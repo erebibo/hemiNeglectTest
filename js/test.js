@@ -31,7 +31,7 @@ $(document).ready(function() {
     $('.icon').click(function() {
     	console.log("here")
     	console.log(this)
-        $(this).css('background-color', 'lightblue');
+        $(this).css('background-color', 'yellow');
     });
 
 });
