@@ -1,3 +1,8 @@
 .test{
 color:#E03511!important; 
 }
+
+.imageArea {
+  overflow: hidden;
+  height: 500px;
+}
